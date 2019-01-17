@@ -1,4 +1,11 @@
-**Version:** 1.0.0-beta
+**Version:** 1.0.1-beta
+
+1.0.1-beta includes:
+* Upgraded the bundled zend to 2.0.16
+* Added progress indicator for downloading the proving keys.
+* Improved installation issues on Windows systems.
+* Improved support for windows 8 systems.
+* General improvements and bug fixes to the zend installer.
 
 User manual can be found here [https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/290979870/Sphere+by+Horizon+User+Manual+-+BETA](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/290979870/Sphere+by+Horizon+User+Manual+-+BETA)
 
@@ -73,4 +80,4 @@ Licensing Requirements:
 * Use of the software and services is provided pursuant to the following [Terms of Use](https://www.horizen.global/terms)
 
 * Disclaimer
-Horizen is committed to user privacy. Sphere by Horizen (the “Service”) does not store or collect data that can be attributed to any individual user. The Service includes a Horizen news feed that is served from an NGINX web server. The logs from this web server are fed to our Matomo web analytics platform, which by default anonymizes user data. The Service does not include tracking code from Matomo and only ingests web server logs. The news feed server logs are deleted after import into Matomo and the visitor ID is anonymized. 
+Horizen is committed to user privacy. Sphere by Horizen (the “Service”) does not store or collect data that can be attributed to any individual user. The Service includes a Horizen news feed that is served from an NGINX web server. The logs from this web server are fed to our Matomo web analytics platform, which by default anonymizes user data. The Service does not include a tracking code from Matomo and only ingests web server logs. The news feed server logs are deleted after import into Matomo and the visitor ID is anonymized. The service also includes up to date coin price metrics from a Horizen hosted api server. This is served from an NGINX web server. The logs from this server are NOT sent to matomo and are deleted on rotation. These logs are NOT used for tracking in any way.
