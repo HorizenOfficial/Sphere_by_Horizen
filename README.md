@@ -72,3 +72,5 @@ Licensing Requirements:
 
 * Use of the software and services is provided pursuant to the following [Terms of Use](https://www.horizen.global/terms)
 
+* Disclaimer
+Horizen is committed to user privacy. Sphere by Horizen (the “Service”) does not store or collect data that can be attributed to any individual user. The Service includes a Horizen news feed that is served from an NGINX web server. The logs from this web server are fed to our Matomo web analytics platform, which by default anonymizes user data. The Service does not include tracking code from Matomo and only ingests web server logs. The news feed server logs are deleted after import into Matomo and the visitor ID is anonymized. 
