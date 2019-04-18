@@ -1,15 +1,14 @@
-**Version:** 1.0.1-beta
+**Version:** 1.1.0-beta
 
-1.0.1-beta includes:
-* Upgraded the bundled zend to 2.0.16
-* Added progress indicator for downloading the proving keys.
-* Improved installation issues on Windows systems.
-* Improved support for windows 8 systems.
-* General improvements and bug fixes to the zend installer.
+**Due to significant improvements to data handling, users who took part in an earlier beta are advised to create new accounts and restore their wallet seeds.**
 
-User manual can be found here [https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/290979870/Sphere+by+Horizon+User+Manual+-+BETA](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/290979870/Sphere+by+Horizon+User+Manual+-+BETA)
+An upgrade mechanism will be included in the next major release to remove the requirement on the user to perform this step.
 
-Sphere by Horizen is envisioned as a launching point for Horizen services. Version 1.0.0-beta hosts wallet functions with the following features:
+For a list of changes implemented in this version, please view the [changelog](CHANGELOG.md).
+
+**User manual:** [https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/290979870/Sphere+by+Horizon+User+Manual+-+BETA](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/290979870/Sphere+by+Horizon+User+Manual+-+BETA)
+
+Sphere by Horizen is envisioned as a launching point for Horizen services. Version 1.1.0-beta hosts wallet functions with the following features:
 
 * Full client with both transparent, private transactions
 
@@ -22,6 +21,8 @@ Sphere by Horizen is envisioned as a launching point for Horizen services. Versi
 * Ability to switch between a full or light client 
 
 * Ability to run a full node
+
+* `zen-cli` restricted terminal for advanced wallet users
 
 * More features coming soon!
 
