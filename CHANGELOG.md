@@ -1,3 +1,8 @@
+## [1.1.1-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.1.1-beta) - 2019-05-15
+### Changed
+- Fix an issue where some ledger seeds would not fully restore
+- Fix an issue handling spaces in Windows account usernames
+
 ## [1.1.0-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.1.0-beta) - 2019-04-19
 ### Added
 - Support restoring mnemonic seeds with multiple accounts (e.g. Ledger wallet seeds)
