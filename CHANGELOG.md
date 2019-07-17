@@ -1,3 +1,15 @@
+## [1.1.2-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.1.2-beta)
+### Bugfix
+- Fixed an issue with handling null data (OP_RETURN) transactions
+- Fixed full mode seed restores taking an unusual length of time to complete
+- Fixed an issue where some addresses would not be restored
+### Changed
+- Restoring a seed will now search every layer of the BIP39/44 derivation path, providing support for external HD wallets
+- Upgraded the bundled Zend to 2.0.18
+### Added
+- User can now specify how many shielded addresses to restore, up to a hard limit of 20
+- User can now specify how many transparent addresses to restore, up to a hard limit of 500 per active account & chain on the BIP39/44 derivation path (https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
+
 ## [1.1.1-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.1.1-beta) - 2019-05-15
 ### Changed
 - Fix an issue where some ledger seeds would not fully restore
