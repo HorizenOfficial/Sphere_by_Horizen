@@ -1,8 +1,8 @@
-**Version:** 1.1.1-beta
+**Version:** 1.1.2-beta
 
 **Due to significant improvements to data handling, users who took part in the version 1.0.1-beta or earlier are advised to create new accounts and restore their wallet seeds.**
 
-An upgrade mechanism will be included in the next major release to remove the requirement on the user to perform this step.
+An upgrade mechanism will be included in a future release to remove the requirement on the user to perform this step.
 
 For a list of changes implemented in this version, please view the [changelog](CHANGELOG.md).
 
