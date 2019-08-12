@@ -6,7 +6,7 @@ An upgrade mechanism will be included in a future release to remove the requirem
 
 For a list of changes implemented in this version, please view the [changelog](CHANGELOG.md).
 
-**User manual:** [https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/290979870/Sphere+by+Horizon+User+Manual+-+BETA](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/290979870/Sphere+by+Horizon+User+Manual+-+BETA)
+**User manual:** [https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual)
 
 Sphere by Horizen is envisioned as a launching point for Horizen services. Version 1.1.0-beta hosts wallet functions with the following features:
 
