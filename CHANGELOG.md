@@ -1,3 +1,10 @@
+## [1.2.0-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.0-beta)
+### Added
+- Batch withdraw, used to withdraw funds from multiple addresses in a single transaction
+- Batch split, used to deposit funds to multiple addresses in a single transaction
+- Private Key Balance Sweep entry in the application Tools menu, enabling the ability to sweep all funds from private keys / WIFs
+- View a wallet's backup phrase in its settings window
+
 ## [1.1.2-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.1.2-beta)
 ### Bugfix
 - Fixed an issue with handling null data (OP_RETURN) transactions
