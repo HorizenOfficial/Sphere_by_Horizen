@@ -1,4 +1,4 @@
-**Version:** 1.2.0-beta
+**Version:** 1.2.1-beta
 
 **Due to significant improvements to data handling, users who took part in the version 1.0.1-beta or earlier are advised to create new accounts and restore their wallet seeds.**
 
@@ -8,7 +8,7 @@ For a list of changes implemented in this version, please view the [changelog](C
 
 **User manual:** [https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual)
 
-Sphere by Horizen is envisioned as a launching point for Horizen services. Version 1.2.0-beta hosts wallet functions with the following features:
+Sphere by Horizen is envisioned as a launching point for Horizen services. Version 1.2.1-beta hosts wallet functions with the following features:
 
 * Full client with both transparent, private transactions
 
