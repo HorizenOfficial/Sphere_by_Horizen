@@ -1,3 +1,7 @@
+## [1.2.1-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.1-beta)
+### Changed
+- Upgraded project dependencies
+
 ## [1.2.0-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.0-beta)
 ### Added
 - Batch withdraw, used to withdraw funds from multiple addresses in a single transaction
