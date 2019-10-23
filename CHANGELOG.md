@@ -1,3 +1,10 @@
+## [1.2.2-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.2-beta)
+### Changed
+- Upgraded the bundled Zend to 2.0.19
+- Upgraded project dependencies
+### Added
+- Better error handling/logging
+
 ## [1.2.1-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.1-beta)
 ### Changed
 - Upgraded project dependencies
