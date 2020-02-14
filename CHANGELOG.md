@@ -1,3 +1,17 @@
+## [1.2.3-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.3-beta)
+### Changed
+- Improvements in the "refresh data from blockchain" functionality:
+
+  - Added a new progress-bar to inform the user on the ongoing process
+  - Optimized the http calls to the explorer, to speed up the process and avoid the freezing of the app for wallets with huge amount of addresses.
+  - Increased refresh timeout (120 second)
+
+- Performance optimizations in wallet navigation, transaction listing and new address creation
+
+- Improvements in "batch withdraw" functionality:
+  - Address list now ordered with the same criteria as the wallet detail
+  - Added a check on the total size of the transaction (if exceeded, an error is displayed and the transaction is not sent)
+
 ## [1.2.2-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.2-beta)
 ### Changed
 - Upgraded the bundled Zend to 2.0.19

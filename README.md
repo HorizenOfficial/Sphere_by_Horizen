@@ -1,4 +1,4 @@
-**Version:** 1.2.2-beta
+**Version:** 1.2.3-beta
 
 **Due to significant improvements to data handling, users who took part in the version 1.0.1-beta or earlier are advised to create new accounts and restore their wallet seeds.**
 
@@ -8,17 +8,17 @@ For a list of changes implemented in this version, please view the [changelog](C
 
 **User manual:** [https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual)
 
-Sphere by Horizen is envisioned as a launching point for Horizen services. Version 1.2.2-beta hosts wallet functions with the following features:
+Sphere by Horizen is envisioned as a launching point for Horizen services. Version 1.2.3-beta hosts wallet functions with the following features:
 
 * Full client with both transparent, private transactions
 
 * Lite client with transparent transactions
 
-* The wallet is deterministic, meaning if you lose your account, you can restore cryptocurrency funds through a user-friendly process involving a unique 24-word phrase 
+* The wallet is deterministic, meaning if you lose your account, you can restore cryptocurrency funds through a user-friendly process involving a unique 24-word phrase
 
-* Secure messaging with full client version 
+* Secure messaging with full client version
 
-* Ability to switch between a full or light client 
+* Ability to switch between a full or light client
 
 * Ability to run a full node
 
@@ -48,17 +48,17 @@ For beta launch, we are currently only supporting 64 bit x86 CPUs. 32 bit and AR
 
 Recommended system specifications for running in full mode.
 
-* Available memory 4GB (RAM + swap).  
+* Available memory 4GB (RAM + swap).
 
 * Intel Haswell architecture CPUs (or AMD equivalent) and newer.
 
-* Due to the size of the blockchain at this point we would recommend keeping a minimum of 30GB of storage space free. This requirement will increase over time  with blockchain growth. 
+* Due to the size of the blockchain at this point we would recommend keeping a minimum of 30GB of storage space free. This requirement will increase over time  with blockchain growth.
 
 Installation instructions
 
-* All installers are available here [https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest) 
+* All installers are available here [https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest)
 
-* For Windows, download and run the .exe installer package and follow the standard windows installation procedure. 
+* For Windows, download and run the .exe installer package and follow the standard windows installation procedure.
 
 * For macOS, download and run the latest standard macOS package
 
