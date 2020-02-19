@@ -1,3 +1,8 @@
+## [1.2.4-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.4-beta)
+### Changed
+
+- Upgraded the bundled Zend to 2.0.20
+
 ## [1.2.3-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.3-beta)
 ### Changed
 - Improvements in the "refresh data from blockchain" functionality:
