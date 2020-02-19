@@ -1,3 +1,7 @@
+**Version:** v1.2.4-beta 
+
+- Upgraded the bundled Zend to 2.0.20
+
 **Version:** 1.2.3-beta
 
 **Due to significant improvements to data handling, users who took part in the version 1.0.1-beta or earlier are advised to create new accounts and restore their wallet seeds.**
