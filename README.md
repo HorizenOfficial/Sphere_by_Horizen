@@ -1,4 +1,10 @@
-**Version:** v1.2.4-beta 
+**Version:** v1.2.5-beta
+
+- Added 'Sign with address' functionality
+- New api enpoint for fiat currency conversion
+- Upgraded project dependencies and Nodejs version
+
+**Version:** v1.2.4-beta
 
 - Upgraded the bundled Zend to 2.0.20
 
