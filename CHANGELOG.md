@@ -1,3 +1,9 @@
+## [1.2.5-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.5-beta)
+### Changed
+- Added 'Sign with address' functionality
+- New api enpoint for fiat currency conversion
+- Upgraded project dependencies and Nodejs version
+
 ## [1.2.4-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.4-beta)
 ### Changed
 
