@@ -1,24 +1,23 @@
-**Version:** v1.2.5-beta
+<p align="center"><img src="https://www.horizen.global/assets/img/icons/page_media/logo_no_tagline.svg" width="600"></p>
 
-- Added 'Sign with address' functionality
-- New api enpoint for fiat currency conversion
-- Upgraded project dependencies and Nodejs version
+# Sphere by Horizen
 
-**Version:** v1.2.4-beta
+**Due to a change of the Application ID in v1.2.6-beta, Windows users upgrading from 1.2.5-beta or earlier or setups with multiple user accounts must uninstall Sphere by Horizen first, using the "Programs" utility from the "Control Panel" before running the v1.2.6-beta installer.**
 
-- Upgraded the bundled Zend to 2.0.20
+**Please follow the upgrade guides for [Windows](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/1136263172/Sphere+by+Horizen+-+Upgrade+Restore+Windows) or [macOS](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714309893/Sphere+by+Horizen+-+Upgrade+Restore+Mac+Linux).**
 
-**Version:** 1.2.3-beta
+**Latest Version:** [v1.2.6-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.6-beta)
+
+For a list of changes implemented in this version, please view the [changelog](CHANGELOG.md).
 
 **Due to significant improvements to data handling, users who took part in the version 1.0.1-beta or earlier are advised to create new accounts and restore their wallet seeds.**
 
 An upgrade mechanism will be included in a future release to remove the requirement on the user to perform this step.
 
-For a list of changes implemented in this version, please view the [changelog](CHANGELOG.md).
-
 **User manual:** [https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual)
 
-Sphere by Horizen is envisioned as a launching point for Horizen services. Version 1.2.3-beta hosts wallet functions with the following features:
+## About
+Sphere by Horizen is envisioned as a launching point for Horizen services. Version 1.2.6-beta hosts wallet functions with the following features:
 
 * Full client with both transparent, private transactions
 
@@ -42,21 +41,12 @@ Sphere by Horizen is envisioned as a launching point for Horizen services. Versi
 
 * More features coming soon!
 
-Supported Operating Systems
+## Operating System Support Policy
+- Windows: Windows x64 Desktop versions currently supported by Microsoft are targeted for compatibility, at the time of writing this includes [Windows 7 ESU](https://en.wikipedia.org/wiki/Windows_7), [Windows 8.1](https://en.wikipedia.org/wiki/Windows_8.1) and [Windows 10](https://en.wikipedia.org/wiki/Windows_10)
+- MacOS: MacOS versions currently supported by Apple are targeted for compatibility, at the time of writing this includes [macOS High Sierra](https://en.wikipedia.org/wiki/MacOS_High_Sierra), [macOS Mojave](https://en.wikipedia.org/wiki/MacOS_Mojave) and [macOS Catalina](https://en.wikipedia.org/wiki/MacOS_Catalina)
+- Linux: Debian Stable and Ubuntu versions in support are targeted for compatibility
 
-For beta launch, we are currently only supporting 64 bit x86 CPUs. 32 bit and ARM64 support may be considered in future releases.
-
-* Windows 10 64 bit
-
-* macOS Sierra and above 64 bit
-
-* Ubuntu 18.04.1 LTS 64 bit
-
-* Linux Mint 19 Tara 64 bit
-
-* Debian 9 64 bit
-
-Recommended system specifications for running in full mode.
+## Recommended system specifications for running in full mode.
 
 * Available memory 4GB (RAM + swap).
 
@@ -64,7 +54,7 @@ Recommended system specifications for running in full mode.
 
 * Due to the size of the blockchain at this point we would recommend keeping a minimum of 30GB of storage space free. This requirement will increase over time  with blockchain growth.
 
-Installation instructions
+## Installation instructions
 
 * All installers are available here [https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest)
 
@@ -92,7 +82,7 @@ Installation instructions
   ```
   $ ./example_file_name*.AppImage
   ```
-Licensing Requirements:
+## Licensing
 
 * Use of the software and services is provided pursuant to the following [Terms of Use](https://www.horizen.global/terms)
 

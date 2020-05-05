@@ -1,3 +1,9 @@
+## [1.2.6-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.6-beta)
+### Changed
+- Notarize app for MacOS Catalina
+- Fix 16x16 Mac icns icon
+- Change appId to 'io.horizen.spherebyhorizen'
+
 ## [1.2.5-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.5-beta)
 ### Changed
 - Added 'Sign with address' functionality
