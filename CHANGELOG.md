@@ -1,3 +1,8 @@
+## [1.2.7-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.7-beta)
+### Changed
+- Fix a bug where change addresses generation in full mode was not covered by HD Seed
+- Upgraded the bundled Zend to 2.0.21
+
 ## [1.2.6-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.6-beta)
 ### Changed
 - Notarize app for MacOS Catalina

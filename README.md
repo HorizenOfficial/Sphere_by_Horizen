@@ -2,11 +2,11 @@
 
 # Sphere by Horizen
 
-**Due to a change of the Application ID in v1.2.6-beta, Windows users upgrading from 1.2.5-beta or earlier or setups with multiple user accounts must uninstall Sphere by Horizen first, using the "Programs" utility from the "Control Panel" before running the v1.2.6-beta installer.**
+**Due to a change of the Application ID in v1.2.6-beta, Windows users upgrading from 1.2.5-beta or earlier or setups with multiple user accounts must uninstall Sphere by Horizen first, using the "Programs" utility from the "Control Panel" before installing any version greater than v1.2.5-beta.**
 
 **Please follow the upgrade guides for [Windows](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/1136263172/Sphere+by+Horizen+-+Upgrade+Restore+Windows) or [macOS](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714309893/Sphere+by+Horizen+-+Upgrade+Restore+Mac+Linux).**
 
-**Latest Version:** [v1.2.6-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.6-beta)
+**Latest Version:** [v1.2.7-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.7-beta)
 
 For a list of changes implemented in this version, please view the [changelog](CHANGELOG.md).
 
@@ -17,7 +17,7 @@ An upgrade mechanism will be included in a future release to remove the requirem
 **User manual:** [https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual)
 
 ## About
-Sphere by Horizen is envisioned as a launching point for Horizen services. Version 1.2.6-beta hosts wallet functions with the following features:
+Sphere by Horizen is envisioned as a launching point for Horizen services. The [latest](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest) version hosts wallet functions with the following features:
 
 * Full client with both transparent, private transactions
 
