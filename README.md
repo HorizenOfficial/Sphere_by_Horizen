@@ -6,7 +6,7 @@
 
 **Please follow the upgrade guides for [Windows](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/1136263172/Sphere+by+Horizen+-+Upgrade+Restore+Windows) or [macOS](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714309893/Sphere+by+Horizen+-+Upgrade+Restore+Mac+Linux).**
 
-**Latest Version:** [v1.2.7-beta](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.7-beta)
+**Latest Version:** [v1.2.7-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.7-beta)
 
 For a list of changes implemented in this version, please view the [changelog](CHANGELOG.md).
 
@@ -17,7 +17,7 @@ An upgrade mechanism will be included in a future release to remove the requirem
 **User manual:** [https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714604770/Sphere+By+Horizen+User+Manual)
 
 ## About
-Sphere by Horizen is envisioned as a launching point for Horizen services. The [latest](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest) version hosts wallet functions with the following features:
+Sphere by Horizen is envisioned as a launching point for Horizen services. The [latest](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/latest) version hosts wallet functions with the following features:
 
 * Full client with both transparent, private transactions
 
@@ -56,7 +56,7 @@ Sphere by Horizen is envisioned as a launching point for Horizen services. The [
 
 ## Installation instructions
 
-* All installers are available here [https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest](https://github.com/ZencashOfficial/Sphere_by_Horizen/releases/latest)
+* All installers are available here [https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/latest](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/latest)
 
 * For Windows, download and run the .exe installer package and follow the standard windows installation procedure.
 
