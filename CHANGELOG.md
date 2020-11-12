@@ -1,3 +1,16 @@
+## [1.2.8-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.8-beta)
+### Changed
+- Upgraded the bundled Zend to 2.0.22
+- Change links to new horizen.io domain
+### Added
+- New sidebar icons and other graphics improvements
+- Automatic backup of wallet files on saving
+- Password protection of send founds action - now is possible to choose a different password from the wallet password
+- Trusted setup download and verification using fetch-params.ps1 on Windows
+### Bugfix
+- Editing wallet name and saving changes, didn't allow you to view the seed phrase again
+- In full node mode Zend failed to terminate after user log off
+
 ## [1.2.7-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.7-beta)
 ### Changed
 - Fix a bug where change addresses generation in full mode was not covered by HD Seed
