@@ -88,3 +88,5 @@ Sphere by Horizen is envisioned as a launching point for Horizen services. The [
 
 * Disclaimer
 Horizen is committed to user privacy. Sphere by Horizen (the “Service”) does not store or collect data that can be attributed to any individual user. The Service includes a Horizen news feed that is served from an NGINX web server. The logs from this web server are fed to our Matomo web analytics platform, which by default anonymizes user data. The Service does not include a tracking code from Matomo and only ingests web server logs. The news feed server logs are deleted after import into Matomo and the visitor ID is anonymized. The service also includes up to date coin price metrics from a Horizen hosted api server. This is served from an NGINX web server. The logs from this server are NOT sent to matomo and are deleted on rotation. These logs are NOT used for tracking in any way.
+
+test
