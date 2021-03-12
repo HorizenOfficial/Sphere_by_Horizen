@@ -1,3 +1,7 @@
+## [1.2.9-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.9-beta)
+### Changed
+- Security fix
+
 ## [1.2.8-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.8-beta)
 ### Changed
 - Upgraded the bundled Zend to 2.0.22
