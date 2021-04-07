@@ -1,3 +1,10 @@
+## [1.2.10-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.10-beta)
+### Changed
+- Upgraded the bundled Zend to 2.0.23
+### Bugfix
+- Fix withdraw password check on batch withdraw
+- Fix password strength help text on login dialog
+
 ## [1.2.9-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.9-beta)
 ### Changed
 - Security fix
