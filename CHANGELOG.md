@@ -1,3 +1,7 @@
+## [1.2.11-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.11-beta)
+### Changed
+- Upgraded the bundled Zend to 2.0.24
+
 ## [1.2.10-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.10-beta)
 ### Changed
 - Upgraded the bundled Zend to 2.0.23
