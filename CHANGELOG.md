@@ -1,3 +1,7 @@
+## [1.2.13-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.13-beta)
+### Changed
+- Upgraded the bundled Zend to 3.0.2
+
 ## [1.2.12-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.12-beta)
 ### Changed
 - Upgraded the bundled Zend to 3.0.1
