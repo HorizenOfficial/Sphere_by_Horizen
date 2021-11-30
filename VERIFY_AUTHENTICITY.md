@@ -113,7 +113,7 @@ It is highly recommended to verify the authenticty of the downloaded files befor
     - Choose a passphrase to protect your personal key (NOTE: the passphrase can be empty, but it is not recommended if you intend to use this key and GNUPG in future)
 4. Import the key used to sign releases:
     ```
-    gpg2 --keyserver hkp://pool.sks-keyservers.net --recv-keys 219F55740BBF7A1CE368BA45FB7053CE4991B669
+    gpg2 --keyserver hkps://keys.openpgp.org --recv-keys 219F55740BBF7A1CE368BA45FB7053CE4991B669
     ```
     - The output of the command should show:
     ```
