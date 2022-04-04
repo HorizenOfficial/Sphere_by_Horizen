@@ -1,3 +1,8 @@
+## [1.2.15-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.15-beta)
+### Changed
+- Upgrade the bundled Zend to 3.1.0
+- Upgrade zencashjs to 2.0.2
+
 ## [1.2.14-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.2.14-beta)
 ### Changed
 - Upgraded the bundled Zend to 3.0.3
