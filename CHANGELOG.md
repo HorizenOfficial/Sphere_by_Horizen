@@ -1,6 +1,4 @@
 ## [1.3.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.3.0-beta)
-### Changed
-- Network changed to Testnet
 ### Added
 - Support for creating and displaying Mainchain to Sidechain Forward Transfers in Full Mode
 - Support for displaying incoming Sidechain to Mainchain Backward Transfers in Full Mode
