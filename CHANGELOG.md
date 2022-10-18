@@ -1,3 +1,11 @@
+## [1.5.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.5.0-beta)
+### Changed
+- Upgrade the bundled Zend to 3.2.0
+- Remove unused code
+- Update dependencies
+- Update password policy
+- Improve Wallet recovery security
+
 ## [1.4.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.4.0-beta)
 ### Changed
 - Display full sidechain addresses on the withdraw details screen
