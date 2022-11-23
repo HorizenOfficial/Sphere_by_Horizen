@@ -1,3 +1,11 @@
+## [1.6.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.6.0-beta)
+### Changed
+- Fixed error that occurs when trying to add a new address to a wallet
+- Fixed Markets data not appearing
+- Fixed News section data not appearing
+- Update dependencies
+- Security updates
+
 ## [1.5.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.5.0-beta)
 ### Changed
 - Upgrade the bundled Zend to 3.2.0
