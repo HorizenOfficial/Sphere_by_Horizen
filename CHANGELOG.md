@@ -1,3 +1,8 @@
+## [1.7.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.7.0-beta)
+### Changed
+- Removed messaging feature
+- Security updates
+
 ## [1.6.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.6.0-beta)
 ### Changed
 - Fixed error that occurs when trying to add a new address to a wallet
