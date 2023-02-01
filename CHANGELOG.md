@@ -1,3 +1,7 @@
+## [1.8.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.8.0-beta)
+### Changed
+- Upgrade the bundled Zend to 3.2.1
+
 ## [1.7.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.7.0-beta)
 ### Changed
 - Removed messaging feature
