@@ -1,3 +1,7 @@
+## [1.9.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.9.0-beta)
+### Changed
+- Upgrade the bundled Zend to 3.3.0
+
 ## [1.8.1-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.8.1-beta)
 ### Bugfix
 - Fixed error that was causing repetitive notifications and zend installation issues.
