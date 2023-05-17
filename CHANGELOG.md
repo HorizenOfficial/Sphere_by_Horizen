@@ -1,3 +1,7 @@
+## [1.11.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.11.0-beta)
+### Changed
+- Upgrade the bundled Zend to 4.0.0
+
 ## [1.10.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.10.0-beta)
 ### Changed
 - Upgrade the bundled Zend to 3.3.1
