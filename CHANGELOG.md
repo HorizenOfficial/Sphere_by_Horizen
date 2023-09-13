@@ -1,3 +1,9 @@
+## [1.12.0](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.12.0)
+### Changed
+- Upgrade the bundled Zend to 4.1.0
+- Added z-address warning banner
+- Disabled shieled transactions functionality
+
 ## [1.11.0](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.11.0)
 ### Changed
 - Transition from the beta phase to general availability
