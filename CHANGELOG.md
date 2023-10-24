@@ -1,3 +1,7 @@
+## [1.14.0](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.14.0)
+### Changed
+- Update EON addresses to correct format
+
 ## [1.13.0](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.13.0)
 ### Changed
 - Added back Send functionality for shielded addresses
