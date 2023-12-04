@@ -1,3 +1,7 @@
+## [1.15.0](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.15.0)
+### Changed
+- Upgrade the bundled Zend to 4.1.1
+
 ## [1.14.0](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.14.0)
 ### Changed
 - Update EON addresses to correct format
