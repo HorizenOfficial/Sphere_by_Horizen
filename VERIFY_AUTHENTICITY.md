@@ -4,7 +4,7 @@ It is highly recommended to verify the authenticty of the downloaded files befor
 
 ## Windows
 ### Verify File Authenticity
-1. Download Sphere_by_Horizen-1.17.0.exe and Sphere_by_Horizen-1.17.0.exe.asc and store the files in your Downloads folder.
+1. Download Sphere_by_Horizen-1.18.0.exe and Sphere_by_Horizen-1.18.0.exe.asc and store the files in your Downloads folder.
 2. Download the GNUPG package from https://www.gpg4win.org/get-gpg4win.html
 3. Proceed with the installation and launch Kleopatra.
 4. Unless you already have a personal GPG key, you will have to create one (required for step 6):
@@ -28,20 +28,20 @@ It is highly recommended to verify the authenticty of the downloaded files befor
     - You should receive a message saying Certification successful
 7. Verify the installer binary:
     - Click the Decrypt/Verify button on the Kleopatra toolbar
-    - Choose the Downloads\Sphere_by_Horizen-1.17.0.exe file in the file dialog (the .asc signature file must reside in the same directory)
+    - Choose the Downloads\Sphere_by_Horizen-1.18.0.exe file in the file dialog (the .asc signature file must reside in the same directory)
 8. If the verification is successful, you will receive a green-tinted message box saying:
     - Valid signature by cronic@horizenlabs.io
     - Date of signature
     - With certificate 219F 5574 0BBF 7A1C E368 BA45 FB70 53CE 4991 B669
     - Anything else would constitute a signature verification failure.
 ### Verify File Integrity
-1. Download Sphere_by_Horizen-1.17.0.exe and Sphere_by_Horizen-1.17.0.exe.sha256 and store the files in your Downloads folder
+1. Download Sphere_by_Horizen-1.18.0.exe and Sphere_by_Horizen-1.18.0.exe.sha256 and store the files in your Downloads folder
 2. Open a PowerShell window
 3. Verify the checksums by copy/pasting the following commands:
     ```
     cd ~\Downloads
-    $targetHash = (Get-Content -Path Sphere_by_Horizen-1.17.0.exe.sha256 -Delimiter " ")[0].Trim()
-    $fileName = (Get-Content -Path Sphere_by_Horizen-1.17.0.exe.sha256 -Delimiter " ")[2].Trim()
+    $targetHash = (Get-Content -Path Sphere_by_Horizen-1.18.0.exe.sha256 -Delimiter " ")[0].Trim()
+    $fileName = (Get-Content -Path Sphere_by_Horizen-1.18.0.exe.sha256 -Delimiter " ")[2].Trim()
     if ($(certutil -hashfile $fileName SHA256)[1] -replace " ","" -eq $targetHash) {
       Write-Host $fileName":  OK"
     } else {
@@ -51,12 +51,12 @@ It is highly recommended to verify the authenticty of the downloaded files befor
     ```
 4. The output of the command should equal:
     ```
-    Sphere_by_Horizen-1.17.0.exe: OK
+    Sphere_by_Horizen-1.18.0.exe: OK
     ```
 
 ## MacOS
 ### Verify File Authenticity
-1. Download Sphere_by_Horizen-1.17.0.dmg and Sphere_by_Horizen-1.17.0.dmg.asc and store the files in your Downloads folder.
+1. Download Sphere_by_Horizen-1.18.0.dmg and Sphere_by_Horizen-1.18.0.dmg.asc and store the files in your Downloads folder.
 2. If you already have the GPG Suite installed, and a personal key generated, please skip to step 5, and if not, proceed with the next step.
 3. Go to https://gpgtools.org, head to the GPG Suite section, download the .dmg file and install it:
     - Right-click the .dmg file, then Open, which will open a new window with two icons: Install and Uninstall
@@ -75,7 +75,7 @@ It is highly recommended to verify the authenticty of the downloaded files befor
 6. Sign the imported key (this designates trust and is required for the next step):
     - Right-click on the imported key, then "Sign".
 7. Verify the installer binary:
-    - Right-click the Sphere_by_Horizen-1.17.0.dmg file in Finder (do NOT right click on the .asc file, that will not work), then select Services -> OpenPGP: Verify Signature of File (the .asc signature file must reside in the same directory)
+    - Right-click the Sphere_by_Horizen-1.18.0.dmg file in Finder (do NOT right click on the .asc file, that will not work), then select Services -> OpenPGP: Verify Signature of File (the .asc signature file must reside in the same directory)
     - The Verification Results dialog will then appear with the verdict:
     ```
     Trusted signature
@@ -84,22 +84,22 @@ It is highly recommended to verify the authenticty of the downloaded files befor
     ```
     - Anything different means there was no valid signature for the installer.
 ### Verify File Integrity
-1. Download Sphere_by_Horizen-1.17.0.dmg and Sphere_by_Horizen-1.17.0.dmg.sha256 and store the files in your Downloads folder
+1. Download Sphere_by_Horizen-1.18.0.dmg and Sphere_by_Horizen-1.18.0.dmg.sha256 and store the files in your Downloads folder
 2. Open a Terminal window
 3. Verify the checksums by copy/pasting the following command:
     ```
     cd ~/Downloads \
-    && shasum -a256 -c Sphere_by_Horizen-1.17.0.dmg.sha256
+    && shasum -a256 -c Sphere_by_Horizen-1.18.0.dmg.sha256
     
     ```
 4. The output of the command should equal:
     ```
-    Sphere_by_Horizen-1.17.0.dmg: OK
+    Sphere_by_Horizen-1.18.0.dmg: OK
     ```
 
 ## Linux
 ### Verify File Authenticity
-1. Download Sphere_by_Horizen-1.17.0.deb and Sphere_by_Horizen-1.17.0.deb.asc and store the files in your Downloads folder for Debian based systems, or Sphere_by_Horizen-1.17.0.AppImage and Sphere_by_Horizen-1.17.0.AppImage.asc and store the files in your Downloads folder for all other Linux systems.
+1. Download Sphere_by_Horizen-1.18.0.deb and Sphere_by_Horizen-1.18.0.deb.asc and store the files in your Downloads folder for Debian based systems, or Sphere_by_Horizen-1.18.0.AppImage and Sphere_by_Horizen-1.18.0.AppImage.asc and store the files in your Downloads folder for all other Linux systems.
 2. Ensure that the gpg2 command is available (assuming Ubuntu Linux) in your shell, and if not execute the following shell command:
     ```
     sudo apt-get update \
@@ -128,11 +128,11 @@ It is highly recommended to verify the authenticty of the downloaded files befor
 6. Verify the installer binary using the .asc signature (the .asc signature file must reside in the same directory as the installer binary):
     ```
     cd ~/Downloads \
-    && gpg2 --verify Sphere_by_Horizen-1.17.0.*.asc
+    && gpg2 --verify Sphere_by_Horizen-1.18.0.*.asc
     ```
     - Successful verification should produce a message like follows:
     ```
-    gpg: assuming signed data in 'Sphere_by_Horizen-1.17.0.{extension}'
+    gpg: assuming signed data in 'Sphere_by_Horizen-1.18.0.{extension}'
     gpg: Signature made Tue 26 Oct 2021 14:48:10 UTC
     gpg:                using RSA key FB7053CE4991B669
     gpg: checking the trustdb
@@ -146,15 +146,15 @@ It is highly recommended to verify the authenticty of the downloaded files befor
     gpg:                 aka "cronic <cronic@horizen.global>" [full]
     ```
 ### Verify File Integrity
-1. Download Sphere_by_Horizen-1.17.0.deb and Sphere_by_Horizen-1.17.0.deb.sha256 and store the files in your Downloads folder for Debian based systems, or Sphere_by_Horizen-1.17.0.AppImage and Sphere_by_Horizen-1.17.0.AppImage.sha256 and store the files in your Downloads folder for all other Linux systems.
+1. Download Sphere_by_Horizen-1.18.0.deb and Sphere_by_Horizen-1.18.0.deb.sha256 and store the files in your Downloads folder for Debian based systems, or Sphere_by_Horizen-1.18.0.AppImage and Sphere_by_Horizen-1.18.0.AppImage.sha256 and store the files in your Downloads folder for all other Linux systems.
 2. Open a Terminal window
 3. Verify the checksums by copy/pasting the following command:
     ```
     cd ~/Downloads \
-    && sha256sum -c Sphere_by_Horizen-1.17.0.*.sha256
+    && sha256sum -c Sphere_by_Horizen-1.18.0.*.sha256
     
     ```
 4. The output of the command should equal:
     ```
-    Sphere_by_Horizen-1.17.0.{extension}: OK
+    Sphere_by_Horizen-1.18.0.{extension}: OK
     ```
