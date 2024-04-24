@@ -6,7 +6,7 @@
 
 **Please follow the upgrade guides for [Windows](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/1136263172/Sphere+by+Horizen+-+Upgrade+Restore+Windows) or [macOS](https://horizenofficial.atlassian.net/wiki/spaces/ZEN/pages/714309893/Sphere+by+Horizen+-+Upgrade+Restore+Mac+Linux).**
 
-**Latest Version:** [v1.18.0](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.18.0)
+**Latest Version:** [v1.19.0](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.19.0)
 
 For a list of changes implemented in this version, please view the [changelog](CHANGELOG.md).
 
@@ -55,7 +55,7 @@ Sphere by Horizen is envisioned as a launching point for Horizen services. The [
 * Due to the size of the blockchain at this point we would recommend keeping a minimum of 30GB of storage space free. This requirement will increase over time  with blockchain growth.
 
 ## Verifying authenticity of installer files
-* It is highly recommended to verify the authenticty of the downloaded files before installing them by checking the PGP signatures. Alternatively you can verify the file integrity by calculating the checksums. You may do so by following the instructions provided [here](https://github.com/HorizenOfficial/Sphere_by_Horizen/blob/desktop-v1.18.0/VERIFY_AUTHENTICITY.md).
+* It is highly recommended to verify the authenticty of the downloaded files before installing them by checking the PGP signatures. Alternatively you can verify the file integrity by calculating the checksums. You may do so by following the instructions provided [here](https://github.com/HorizenOfficial/Sphere_by_Horizen/blob/desktop-v1.19.0/VERIFY_AUTHENTICITY.md).
 
 ## Installation instructions
 
