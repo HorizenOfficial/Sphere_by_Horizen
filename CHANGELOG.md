@@ -1,3 +1,7 @@
+## [1.20.0](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.20.0)
+### Changed
+- Upgrade the bundled Zend to 5.0.4
+
 ## [1.19.0](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.19.0)
 ### Changed
 - Upgrade the bundled Zend to 5.0.2
