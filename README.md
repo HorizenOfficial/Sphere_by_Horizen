@@ -1,3 +1,19 @@
+> ⚠️ **Repository Archived**
+
+---
+
+### 🚫 Deprecated — No Longer Maintained
+
+This repository has been **archived** and is **no longer actively maintained**.
+
+- ❌ No further updates, issues, or pull requests will be accepted.
+- 📦 The code remains available for **reference purposes only**.
+- ⚠️ **Use at your own discretion.**
+
+---
+
+**Archived on:** _2025-10-15_
+
 <p align="center"><img src="https://www.horizen.global/assets/img/icons/page_media/logo_no_tagline.svg" width="600"></p>
 
 # Sphere by Horizen
